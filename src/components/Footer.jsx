@@ -12,7 +12,7 @@ function Footer() {
             <p className='text-left '>
             Wolud you like to give us a feedback or
               need help or have a question? Please,
-              contact  our CustomerCare at 081111111111.
+              contact  our CustomerCare.
             </p>
           </div>
           <div className="footer-socials border flex flex-col items-center p-8 rounded-md	shadow-lg shadow-slate-500/50">
